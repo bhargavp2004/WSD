@@ -1,0 +1,7 @@
+<!ELEMENT tour_packages (tour_package)* >
+<!ELEMENT tour_package (package_title, package_description, highlights, package_price)>
+<!ELEMENT package_title (#PCDATA)>
+<!ELEMENT package_description (#PCDATA)>
+<!ELEMENT package_price (#PCDATA)>
+<!ELEMENT highlights (highlight)*>
+<!ELEMENT highlight (#PCDATA)>

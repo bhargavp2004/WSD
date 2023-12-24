@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Data about tour packages is taken from https://www.sotc.in/india-tour-packages -->
+<tour_packages>
+    <tour_package>
+        <package_title>Madhya Pradesh Packages</package_title>
+        <package_description> Madhya Pradesh literally translates to the central state; owing to its
+            location at the approximate center of India. It has a rich and diverse culture that is
+            an amalgamation of the various influences it has imbibed. Complete with majestic
+            architectural wonders, serene religious sites, sprawling wildlife, and natural wonders,
+            Madhya Pradesh tourism continues to enchant. You can embark on MP tour packages and get
+            an opportunity to see and experience some of the rarest sites and adventures that will
+            leave a lasting impression. It is also one of the friendliest destinations where you can
+            take your loved ones along for a great holiday adventure. You can choose an MP tourism
+            package available that includes visits to national parks such as Pench, Bandhavgarh, and
+            Kanha as well as historical sites such as Sanchi, Gwalior, Indore, Orchha, etc. Let us
+            take a closer look at the wonders that await in Madhya Pradesh.</package_description>
+        <highlights>
+            <highlight>Hot-air ballooning in Pench National Park</highlight>
+            <highlight> jungle safaris </highlight>
+            <highlight> Going on a history tour at Bhimbetka </highlight>
+            <highlight> Boating in Bhedaghat </highlight>
+            <highlight> Try water sports at Hanuwantiya Tapu </highlight>
+            <highlight>Exploring the ruins of Mandu</highlight>
+        </highlights>
+        <package_price>38000</package_price>
+    </tour_package>
+
+    <tour_package>
+        <package_title>Cherry Blossom Festival</package_title>
+        <package_description>Get ready to explore the history of Japan with your family. This small
+            Asian country has lot to offer to all the travelers. Japan is a country with fascinating
+            history, attractive sightseeing places, spectacular cathedrals, and amazing Buddhist
+            temples. Explore the best places and indulge in cultural activities in Japan by booking
+            a holiday package to this wonderful place.</package_description>
+        <highlights>
+            <highlight>spectacular cathedrals</highlight>
+            <highlight>amazing Buddhist temples</highlight>
+        </highlights>
+
+        <package_price>100000</package_price>
+    </tour_package>
+
+    <tour_package>
+        <package_title>Andman Packages</package_title>
+        <package_description> Andaman and Nicobar Islands are one of India’s two island union
+            territories in the Bay of Bengal. In late 2018, the Government of India renamed Havelock
+            Island as Swaraj Dweep, Neil Island as Shaheed Dweep, and Ross Island as Netaji Subhas
+            Chandra Bose Dweep. These islands are well-connected by air to major Indian cities and
+            via ships to Kolkata, Visakhapatnam, and Chennai. The main entry point to these islands
+            from mainland India, Port Blair, is also their capital city. Tourists prefer visiting
+            nearby islands, such as Ross Island, Havelock Island, and Neil Island from Port Blair,
+            for which regular ferry services are available. Most of the Andaman tour packages from
+            India start from here. Besides Hindi and English, Bengali is the most spoken language in
+            these islands. </package_description>
+        <highlights>
+            <highlight>Private Tour</highlight>
+            <highlight>Inter Island Ferry – Private – Preferably Makruzz.</highlight>
+            <highlight>Corbyns Cove Beach;</highlight>
+            <highlight>Cellular Jail</highlight>
+            <highlight>Sound and Light show at Cellular Jail</highlight>
+        </highlights>
+
+        <package_price>100000</package_price>
+    </tour_package>
+
+    <tour_package>
+        <package_title>Char Dham Packages</package_title>
+        <package_description>Explore the beauty of Chardham with SOTC tour packages. Listed below
+            are some of the most top packages for Char Dham. Book Char Dham packages now from SOTC.</package_description>
+        <highlights>
+            <highlight>Chardham Yatra by Helicopter</highlight>
+            <highlight>Darshan at all Four temples i.e. Yamunotri, Gangotri, Kedarnath and Badrinath</highlight>
+        </highlights>
+
+        <package_price>58490</package_price>
+    </tour_package>
+
+    <tour_package>
+        <package_title>Kerala Packages</package_title>
+        <package_description>Explore the beauty of Chardham with SOTC tour packages. Listed below
+            are some of the most top packages for Char Dham. Book Char Dham packages now from SOTC.</package_description>
+        <highlights>
+            <highlight>Experience the moving ether of Alleppey.</highlight>
+            <highlight> around the scenic sights of Kumarakom. </highlight>
+        </highlights>
+
+        <package_price>11500</package_price>
+    </tour_package>
+
+
+</tour_packages>
