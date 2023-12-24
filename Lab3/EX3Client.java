@@ -18,6 +18,8 @@ public class EX3Client {
                 System.out.print(i + " ");
             }
 
+            System.out.println();
+
             ISort is = (ISort) registry.lookup("SortElements");
             ArrayList<Integer> elements = is.sortIntegers(list);
 
@@ -26,6 +28,7 @@ public class EX3Client {
             {
                 System.out.print(i + " ");
             }
+            System.out.println();
 
             IMedian im = (IMedian) registry.lookup("FindMedian");
             double median = im.findMedian(elements);
